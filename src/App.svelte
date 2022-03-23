@@ -7,6 +7,7 @@
 		color: green;
 		text-align: center;
 	}
+
 </style>
 <h1>Test Serious</h1>
 
